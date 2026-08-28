@@ -1,6 +1,6 @@
-                                                                                        **ASSIGNMENT 2**
-                                                                                        **Project Title**
-                                                                                 **DATA CLEANING AND TRANSFORMATION** 
+          ** ****ASSIGNMENT 2**
+          **Project Title******
+   **DATA CLEANING AND TRANSFORMATION** 
 
 **Data Exploration Simple overview of use/purpose.**
   To clean the given data set using multiple functions.
